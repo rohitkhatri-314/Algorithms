@@ -1,0 +1,43 @@
+
+# Dijkstra's Algorithm Implementation
+
+## Overview  
+This C++ implementation of Dijkstra's algorithm finds the shortest path between nodes in a weighted graph using a priority queue (min-heap) approach.
+
+## Key Features  
+- Efficient implementation using STL's priority_queue  
+- Handles directed graphs with weighted edges  
+- Returns the minimum distance between source and target nodes  
+- Uses unordered_map for O(1) access to node distances  
+
+## Input Requirements  
+The graph must be provided as a vector of edge vectors, where each edge is represented as:  
+{source_node, destination_node, edge_weight}  
+
+## How to Use  
+1. Prepare your graph data in the specified edge format  
+2. Call the dijkstra() function with:  
+   - Your graph structure  
+   - Starting node  
+   - Target node  
+3. The function returns the shortest path distance as an integer  
+
+## Performance  
+- Time Complexity: O(E + V log V)  
+- Space Complexity: O(V)  
+
+## Notes  
+- Works only with non-negative edge weights  
+- Nodes should be numerically labeled  
+- Currently returns only the distance, not the path  
+
+## Future Enhancements  
+- Path reconstruction capability  
+- Support for negative weights  
+- Graph validation checks  
+- Class-based implementation  
+
+## Compilation  
+Requires C++11 or newer. Compile with:  
+g++ -std=c++11 dijkstra.cpp -o dijkstra  
+
