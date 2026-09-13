@@ -19,14 +19,12 @@ public:
         while(!q.empty()){ 
             int sz=q.size();
             TreeNode* curr=q.front();
-            vector<int>ok;
             for(int i=0;i<sz;i++){
-                ok.push_back(q.front()->val);
-                if(q.front()->left)q.push(q.front()->left);
-                if(q.front()->right)q.push(q.front()->right);
+                if(i==sz-1)ans.push_back(q.front()->val);
+                if(q.front()->left) q.push(q.front()->left);
+                if(q.front()->right) q.push(q.front()->right);
                 q.pop();
             }
-            ans.push_back(ok.back());
         }
         return ans;
     }
