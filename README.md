@@ -11,6 +11,7 @@ This repository contains different algorithms. For each algorithm I have provide
 | [0199-binary-tree-right-side-view](https://github.com/rohitkhatri-314/Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rohitkhatri-314/Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rohitkhatri-314/Algorithms/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/rohitkhatri-314/Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -19,6 +20,7 @@ This repository contains different algorithms. For each algorithm I have provide
 | [0199-binary-tree-right-side-view](https://github.com/rohitkhatri-314/Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rohitkhatri-314/Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rohitkhatri-314/Algorithms/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/rohitkhatri-314/Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -28,12 +30,14 @@ This repository contains different algorithms. For each algorithm I have provide
 | [0199-binary-tree-right-side-view](https://github.com/rohitkhatri-314/Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rohitkhatri-314/Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rohitkhatri-314/Algorithms/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/rohitkhatri-314/Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/rohitkhatri-314/Algorithms/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rohitkhatri-314/Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/rohitkhatri-314/Algorithms/tree/master/0199-binary-tree-right-side-view) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/rohitkhatri-314/Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
 | ------- |
